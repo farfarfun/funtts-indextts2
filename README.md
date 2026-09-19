@@ -1,12 +1,6 @@
 # funtts-indextts2
 
-占位仓库，尚无实际功能代码。发布这个空壳版本只是为了在 PyPI 上保留 `funtts-indextts2` 这个包名，避免被无关项目抢注；具体功能会在之后陆续补充。
-
-## Install
-
-```bash
-pip install funtts-indextts2
-```
+> **已归档**：该仓库没有实际功能代码。IndexTTS2 支持已统一在 [fartts](https://github.com/farfarfun/fartts) 中维护，不再单独发布此占位包。
 
 ---
 
